@@ -92,5 +92,6 @@ Predictive analytics model for campaign conversion forecasting and marketing opt
 
 # Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/satheeshgurusamy 
+- LinkedIn: https://www.linkedin.com/in/satheeshgurusamy
+- Web : www.sgsamy.com
 - GitHub: https://github.com/SGSAMY
