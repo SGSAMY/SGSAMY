@@ -23,9 +23,10 @@ Specialised in:
 - Tableau
 
 ### Databases
-- SQL Server
+- MS SQL Server
 - T-SQL
-- MySQL
+- Snowflake
+- Azure Data Services
 
 ### Programming & Analytics
 - Python
