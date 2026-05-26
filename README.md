@@ -37,6 +37,7 @@ Specialised in:
 - Google Analytics
 - Adobe Campaign Classic
 - Ometria
+- Pure360  (now Spotler)
 
 ---
 
