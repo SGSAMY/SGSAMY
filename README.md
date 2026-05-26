@@ -3,8 +3,8 @@
 Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data Analytics, Campaign Analytics, and Customer Insights.
 
 Specialised in:
-- Power BI Dashboard Development
 - SQL & Data Warehousing
+- Power BI Dashboard Development
 - Python Analytics & Machine Learning
 - Customer Segmentation
 - KPI Reporting & Forecasting
