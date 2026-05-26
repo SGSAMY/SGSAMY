@@ -2,14 +2,17 @@
 
 Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data Analytics, Campaign Analytics, and Customer Insights.
 
-Specialised in:
+## Specialised in
+
 - SQL & Data Warehousing
+- Data Pipeline & ETL Development
+- Marketing Campaign Analytics & Automation
 - Power BI Dashboard Development
 - Python Analytics & Machine Learning
-- Customer Segmentation
+- Customer Segmentation & Customer Analytics
 - KPI Reporting & Forecasting
 - Insurance & Financial Services Analytics
-
+  
 ---
 
 ## Tech Stack
@@ -23,10 +26,16 @@ Specialised in:
 - Tableau
 
 ### Databases
-- MS SQL Server
+
+- Microsoft SQL Server
 - T-SQL
+
+### Cloud & Data Platforms
+
+- Azure Data Factory (ADF)
+- Azure Data Lake
+- Azure Synapse Analytics
 - Snowflake
-- Azure Data Services
 
 ### Programming & Analytics
 - Python
