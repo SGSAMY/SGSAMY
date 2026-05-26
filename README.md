@@ -42,6 +42,8 @@ Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data
 - Pandas
 - NumPy
 - Scikit-learn
+- SQLAlchemy
+- pyodbc
 
 ### Marketing & Analytics
 - Google Analytics
