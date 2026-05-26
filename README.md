@@ -1,6 +1,6 @@
 # Hi, I'm Satheesh Gurusamy 👋
 
-Senior Marketing Data Analyst with 14+ years of experience in Business Intelligence, Data Analytics, Campaign Analytics, and Customer Insights.
+Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data Analytics, Campaign Analytics, and Customer Insights.
 
 Specialised in:
 - Power BI Dashboard Development
