@@ -6,9 +6,9 @@ Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data
 
 - SQL & Data Warehousing
 - Data Pipeline & ETL Development
-- Marketing Campaign Analytics & Automation
 - Power BI Dashboard Development
 - Python Analytics & Machine Learning
+- Marketing Campaign Analytics & Automation
 - Customer Segmentation & Customer Analytics
 - KPI Reporting & Forecasting
 - Insurance & Financial Services Analytics
