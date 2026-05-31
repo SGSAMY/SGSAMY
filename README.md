@@ -69,7 +69,7 @@ I specialise in transforming complex data into actionable business insights usin
 
 # Featured Projects
 
-## End-to-End Analytics & Data Engineering
+# End-to-End Analytics & Data Engineering
 
 ### Travel Insurance Customer Retention & Revenue Analytics
 
@@ -79,7 +79,7 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 
 ---
 
-## Analytics & Machine Learning
+# Analytics & Machine Learning
 
 ### Customer Churn Risk Model
 Machine learning model for identifying high-risk customers and improving retention strategies.
@@ -101,7 +101,7 @@ Predictive analytics model for campaign conversion forecasting and marketing opt
 🔗 https://github.com/SGSAMY/Campaign-Conversion-Prediction-Model
 
 
-## Power BI Dashboards
+# Power BI Dashboards
 
 ### Insurance Performance & Claims Analytics Dashboard
 Executive Power BI dashboard for insurance claims analytics, KPI reporting, decomposition analysis, and operational insights.
