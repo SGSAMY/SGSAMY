@@ -1,8 +1,8 @@
 # Hi, I'm Satheesh Gurusamy 👋
 
-Senior Data Analyst,  Business Intelligence Professional and Data Engineering & Customer Analytics Specialist with 14+ years of experience delivering data-driven solutions across Business Intelligence, Customer Analytics, Marketing Analytics, Data Engineering, and Reporting.
+Senior Data Analyst and Business Intelligence Professional with 14+ years of experience delivering data-driven solutions across customer analytics, marketing analytics, data engineering, and reporting.
 
-I specialise in transforming complex data into actionable business insights through SQL, Python, Cloud Data Platforms, and Power BI.
+I specialise in transforming complex data into actionable business insights through SQL, Python, cloud data platforms, and Power BI, enabling organisations to improve customer retention, optimise marketing performance, and drive revenue growth.
 
 ## Core Expertise
 
