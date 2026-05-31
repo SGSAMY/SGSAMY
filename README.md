@@ -1,34 +1,40 @@
 # Hi, I'm Satheesh Gurusamy 👋
 
-Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data Analytics, Campaign Analytics, and Customer Insights.
+Senior Data Analyst,  Business Intelligence Professional and Data Engineering & Customer Analytics Specialist with 14+ years of experience delivering data-driven solutions across Business Intelligence, Customer Analytics, Marketing Analytics, Data Engineering, and Reporting.
 
-## Specialised in
+I specialise in transforming complex data into actionable business insights through SQL, Python, Cloud Data Platforms, and Power BI.
 
-- SQL & Data Warehousing
-- Data Pipeline & ETL Development
+## Core Expertise
+
+- Business Intelligence & Data Analytics
+- SQL Development & Data Warehousing
+- Data Engineering & ETL Development
 - Power BI Dashboard Development
 - Python Analytics & Machine Learning
+- Customer Analytics & Segmentation
+- Churn, Retention & Lifetime Value Analytics
 - Marketing Campaign Analytics & Automation
-- Customer Segmentation & Customer Analytics
-- KPI Reporting & Forecasting
+- KPI Reporting, Forecasting & Executive Dashboards
 - Insurance & Financial Services Analytics
   
 ---
 
 ## Tech Stack
 
-### Business Intelligence
+### Business Intelligence & Visualisation
+
 - Power BI
 - DAX
 - Power Query
+- Tableau
 - SSRS
 - SSIS
-- Tableau
 
 ### Databases
 
 - Microsoft SQL Server
 - T-SQL
+- Azure SQL Database
 
 ### Cloud & Data Platforms
 
@@ -52,6 +58,14 @@ Senior  Data Analyst with 14+ years of experience in Business Intelligence, Data
 - Pure360  (now Spotler)
 
 ---
+
+## Current Focus
+
+- End-to-End Analytics Solutions using Azure SQL, Python and Power BI
+- Azure Data Engineering
+- Customer Retention Analytics
+- Machine Learning for Marketing Analytics
+- Snowflake Data Platforms
 
 # Featured Power BI Projects
 
