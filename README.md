@@ -62,11 +62,12 @@ I specialise in transforming complex data into actionable business insights usin
 ## Current Focus
 
 - End-to-End Analytics Solutions using Azure SQL, Python and Power BI
-- Azure Data Engineering
-- Customer Retention Analytics
-- Machine Learning for Marketing Analytics
-- Snowflake Data Platforms
-
+- Campaign Management, CRM Analytics and Marketing Automation
+- Customer Analytics, Retention and Lifetime Value Optimisation
+- Machine Learning for Marketing and Customer Analytics
+- Data Engineering and Modern Data Platforms
+- Snowflake and Modern Data Warehousing Solutions
+  
 # Featured Projects
 
 # End-to-End Analytics & Data Engineering
