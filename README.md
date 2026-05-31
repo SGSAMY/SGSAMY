@@ -110,7 +110,7 @@ Executive Power BI dashboard for insurance claims analytics, KPI reporting, deco
 
 ---
 
-### Sales Conversion Power BI Dashboard
+### Sales Conversion Dashboard
 Sales conversion analytics dashboard with KPI reporting, funnel analysis, forecasting, and YOY trend analysis.
 
 🔗 https://github.com/SGSAMY/Sales-Conversion-PowerBI-dashboard
