@@ -88,7 +88,7 @@ Machine learning model for identifying high-risk customers and improving retenti
 
 ---
 
-### Customer Segmentation & Next Best Action
+### Customer Segmentation & Next Best Action Model
 Customer segmentation and recommendation analytics using Python and machine learning.
 
 🔗 https://github.com/SGSAMY/Customer-Segmentation-Next-Best-Action
