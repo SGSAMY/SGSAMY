@@ -1,6 +1,6 @@
 # Hi, I'm Satheesh Gurusamy 👋
 
-Senior Data & Analytics Lead with 14+ with 14+ years of experience in Business Intelligence, Customer Analytics, Marketing Analytics, Campaign Management, Data Engineering, and Reporting.
+Senior Data & Analytics Lead with 14+ years of experience in Business Intelligence, Customer Analytics, Marketing Analytics, Campaign Management, Data Engineering, and Reporting.
 
 I specialise in transforming complex data into actionable business insights using SQL, Python, cloud data platforms and Power BI to improve customer retention, optimise marketing performance and drive revenue growth.
 
