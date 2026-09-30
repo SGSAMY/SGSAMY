@@ -1,8 +1,8 @@
 # Hi, I'm Satheesh Gurusamy 👋
 
-I am a Senior Data & Analytics Lead based in Tunbridge Wells, UK, with over 14 years of experience delivering business intelligence, data engineering, customer analytics, marketing analytics, campaign management, and CRM-driven customer communication solutions across financial services and digital businesses.
+I am a Senior Data & Analytics professional with 15+ years of experience delivering data engineering, business intelligence, customer and marketing analytics solutions across insurance, financial services, retail and e-commerce.
 
-I specialise in transforming complex data into actionable business insights using SQL, Python, cloud data platforms, and Power BI to improve customer retention, optimise marketing performance, drive revenue growth, and support data-driven decision-making
+I specialise in transforming complex data into actionable insights using SQL, Python, Azure, Snowflake and Power BI, with experience across data engineering, ETL/ELT, data modelling, advanced analytics and executive reporting.
 
 ## Core Expertise
 
