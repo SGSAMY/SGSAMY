@@ -80,7 +80,7 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 
 ---
 
-# Analytics & Machine Learning
+Advanced Analytics & Insights
 
 ### Customer Churn Risk Model
 Machine learning model for identifying high-risk customers and improving retention strategies.
