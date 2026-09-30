@@ -85,7 +85,7 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 ### Marketing Mix Modelling (MMM) - Budget Optimisation
 Developed an end-to-end MMM solution using Python to estimate channel contribution, evaluate ROI and simulate budget allocation.
 
-🔗 https://github.com/SGSAMY/Customer-Churn-Risk-Model
+🔗 https://github.com/SGSAMY/marketing-mix-modelling
 
 ---
 
