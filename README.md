@@ -105,7 +105,7 @@ Predictive analytics model for campaign conversion forecasting and marketing opt
 ---
 
 ### Customer Churn Risk Model
-Rule-based churn risk model using engagement indicators and behavioural scoring to identify high-risk customer groups and support retention analysis.
+Built a churn risk model using engagement indicators and behavioural scoring to identify high-risk customer groups and support retention analysis.
 
 🔗 https://github.com/SGSAMY/Customer-Churn-Risk-Model
 
