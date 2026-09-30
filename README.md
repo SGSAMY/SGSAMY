@@ -80,10 +80,10 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 
 ---
 
-Advanced Analytics & Insights
+# Advanced Analytics & Insights
 
-### Customer Churn Risk Model
-Machine learning model for identifying high-risk customers and improving retention strategies.
+### Marketing Mix Modelling (MMM) - Budget Optimisation
+Developed an end-to-end MMM solution using Python to estimate channel contribution, evaluate ROI and simulate budget allocation.
 
 🔗 https://github.com/SGSAMY/Customer-Churn-Risk-Model
 
@@ -101,6 +101,14 @@ Predictive analytics model for campaign conversion forecasting and marketing opt
 
 🔗 https://github.com/SGSAMY/Campaign-Conversion-Prediction-Model
 
+---
+
+### Customer Churn Risk Model
+Machine learning model for identifying high-risk customers and improving retention strategies.
+
+🔗 https://github.com/SGSAMY/Customer-Churn-Risk-Model
+
+---
 
 # Power BI Dashboards
 
