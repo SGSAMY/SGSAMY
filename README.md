@@ -29,7 +29,8 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 - Tableau
 - SSRS
 - SSIS
-
+- Git
+- CI/CD
 ### Databases
 
 - Microsoft SQL Server
@@ -90,7 +91,7 @@ Developed an end-to-end MMM solution using Python to estimate channel contributi
 ---
 
 ### Customer Segmentation & Next Best Action Model
-Customer segmentation and recommendation analytics using Python and machine learning.
+Customer segmentation and next-best-action solution using customer profiling and behavioural analysis, combining customer groups with priority scoring to support targeted engagement.
 
 🔗 https://github.com/SGSAMY/Customer-Segmentation-Next-Best-Action
 
@@ -104,7 +105,7 @@ Predictive analytics model for campaign conversion forecasting and marketing opt
 ---
 
 ### Customer Churn Risk Model
-Machine learning model for identifying high-risk customers and improving retention strategies.
+Rule-based churn risk model using engagement indicators and behavioural scoring to identify high-risk customer groups and support retention analysis.
 
 🔗 https://github.com/SGSAMY/Customer-Churn-Risk-Model
 
