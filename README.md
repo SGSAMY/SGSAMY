@@ -70,7 +70,7 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 - Data Engineering and Modern Data Platforms
 - Snowflake and Modern Data Warehousing Solutions
   
-## End-to-End Analytics & Data Engineering
+# End-to-End Analytics & Data Engineering
 End-to-end data solutions demonstrating modern cloud data engineering, transformation, analytics and business intelligence across Microsoft Fabric and Azure.
 
 ### Microsoft Fabric Data Engineering & Analytics
@@ -87,7 +87,7 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 
 ---
 
-## Advanced Analytics & Insights
+# Advanced Analytics & Insights
 Advanced analytics solutions demonstrating predictive modelling, customer analytics, segmentation and marketing optimisation using Python and machine learning.
 
 ### Marketing Mix Modelling (MMM) - Budget Optimisation
@@ -118,7 +118,7 @@ Built a churn risk model using engagement indicators and behavioural scoring to 
 
 ---
 
-## Power BI Dashboards
+# Power BI Dashboards
 
 Interactive Power BI dashboards demonstrating KPI reporting, performance analysis, data visualisation and actionable business insights.
 
