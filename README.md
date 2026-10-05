@@ -88,6 +88,7 @@ End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering 
 ---
 
 # Advanced Analytics & Insights
+Advanced analytics solutions demonstrating predictive modelling, customer analytics, segmentation and marketing optimisation using Python and machine learning.
 
 ### Marketing Mix Modelling (MMM) - Budget Optimisation
 Developed an end-to-end MMM solution using Python to estimate channel contribution, evaluate ROI and simulate budget allocation.
@@ -118,6 +119,8 @@ Built a churn risk model using engagement indicators and behavioural scoring to 
 ---
 
 # Power BI Dashboards
+
+Interactive Power BI dashboards demonstrating KPI reporting, performance analysis, data visualisation and actionable business insights.
 
 ### Insurance Performance & Claims Analytics Dashboard
 Executive Power BI dashboard for insurance claims analytics, KPI reporting, decomposition analysis, and operational insights.
