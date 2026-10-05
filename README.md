@@ -73,7 +73,13 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 
 # End-to-End Analytics & Data Engineering
 
-### Travel Insurance Customer Retention & Revenue Analytics
+# Microsoft-fabric-data-engineering-analytics
+
+Built an end-to-end Fabric solution covering data ingestion, pipeline orchestration, Lakehouse storage, PySpark transformation, semantic modelling and Power BI analytics.
+
+🔗 https://github.com/SGSAMY/microsoft-fabric-data-engineering-analytics
+
+### Azure Customer Retention & Revenue Analytics
 
 End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering customer retention, churn analytics and revenue optimisation insights.
 
