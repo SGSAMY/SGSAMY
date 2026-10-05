@@ -42,6 +42,7 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 - Azure Data Factory (ADF)
 - Azure Data Lake
 - Azure Synapse Analytics
+- Microsoft Fabric
 - Snowflake
 
 ### Programming & Analytics
@@ -73,7 +74,7 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 
 # End-to-End Analytics & Data Engineering
 
-# Microsoft-fabric-data-engineering-analytics
+# Microsoft Fabric Data Engineering & Analytics
 
 Built an end-to-end Fabric solution covering data ingestion, pipeline orchestration, Lakehouse storage, PySpark transformation, semantic modelling and Power BI analytics.
 
