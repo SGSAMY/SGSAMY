@@ -79,7 +79,7 @@ Built an end-to-end Fabric solution covering data ingestion, pipeline orchestrat
 
 🔗 https://github.com/SGSAMY/microsoft-fabric-data-engineering-analytics
 
-### Azure Customer Retention & Revenue Analytics
+# Azure Customer Retention & Revenue Analytics
 
 End-to-end Azure SQL, Python, Data Engineering and Power BI solution delivering customer retention, churn analytics and revenue optimisation insights.
 
