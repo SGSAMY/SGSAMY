@@ -70,10 +70,10 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 - Data Engineering and Modern Data Platforms
 - Snowflake and Modern Data Warehousing Solutions
   
-# End-to-End Analytics & Data Engineering
+## End-to-End Analytics & Data Engineering
 End-to-end data solutions demonstrating modern cloud data engineering, transformation, analytics and business intelligence across Microsoft Fabric and Azure.
 
-# Microsoft Fabric Data Engineering & Analytics
+### Microsoft Fabric Data Engineering & Analytics
 
 Built an end-to-end Fabric solution covering data ingestion, pipeline orchestration, Lakehouse storage, PySpark transformation, semantic modelling and Power BI analytics.
 
