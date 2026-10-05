@@ -70,8 +70,6 @@ I specialise in transforming complex data into actionable insights using SQL, Py
 - Data Engineering and Modern Data Platforms
 - Snowflake and Modern Data Warehousing Solutions
   
-# Featured Projects
-
 # End-to-End Analytics & Data Engineering
 
 # Microsoft Fabric Data Engineering & Analytics
